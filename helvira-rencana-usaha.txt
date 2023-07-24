@@ -2,9 +2,11 @@ RENCANA USAHA HELVIRA
 
 - Dessert 
   * Mochi
+    ^ Ice cream
+    ^ Buah
   * Sandwich Buah
 - Makanan berat
   * Korean food
 - Snack
+- Frozen food
 - Hasil handcraft
-- Fashion
